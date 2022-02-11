@@ -1,5 +1,6 @@
 # Eagles-Eye
 A face recognition door security system which is capable of tracking the entry and exit details...
+----A project by The_Dilemmatic(DERRICK RJ.)----
 
 This project titled “Eagle’s eye” is a Face Recognition Security System it aims to use various powerful libraries in Python, C complier and the data management skills of My SQL to create a software to provide Door entry security through Facial recognition and record the output of the face recogniser for future reference.
 Note: We’ll be using the entry access system for the employees of a company to access the conference hall’s main door in this project. 
@@ -20,4 +21,6 @@ Opencv is used to  accept input display output and manipulate it in the required
 The os module in python is another library which plays a very inportant role for the face recognition it helps in creating and opening specific folders to save fresh photosamples and also opening already saved image files. Moreover the os module is also used to work with the 'path' to important directries so as to obtain important information regarding these directries as these are really important data for the recogniser.
 
 When all these parts of this project functions together we have The EAGLE'S EYE ready to provide security....
+
+
 
