@@ -1,6 +1,6 @@
 # Eagles-Eye
 A face recognition door security system which is capable of tracking the entry and exit details...
-----A project by The_Dilemmatic(DERRICK RJ.)----
+----A project by The_Dilemmatic(Derrick Rj.)----
 
 This project titled “Eagle’s eye” is a Face Recognition Security System it aims to use various powerful libraries in Python, C complier and the data management skills of My SQL to create a software to provide Door entry security through Facial recognition and record the output of the face recogniser for future reference.
 Note: We’ll be using the entry access system for the employees of a company to access the conference hall’s main door in this project. 
