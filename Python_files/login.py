@@ -244,7 +244,7 @@ class User_window:
          
         lbl = Label(Top,text="HELP DESK", font=("Algerian", 20, "bold"), fg="white", bg="Black")
         lbl.place(x=450, y=200, height=55, width=450)
-        lbl = Label(Top,text="If you are facing any issues \n contact any of the following email ids: \n prajin1619@gmail.com \n derrickraju3ty@gmail.com \n jchalakkal16@gmail.com", font=("Arial", 20, "bold"), fg="white", bg="black",pady=50,bd=10, relief=SUNKEN)
+        lbl = Label(Top,text="If you are facing any issues \n contact any of the following email ids: \n thedilemmaticdude@gmail.com \n thedilemmatic@outlook.com", font=("Arial", 20, "bold"), fg="white", bg="black",pady=50,bd=10, relief=SUNKEN)
         lbl.place(x=200, y=350, width= 950)
    
     #developer details window
@@ -289,7 +289,7 @@ class User_window:
         lbl_3 = Label(Top,text="Developer Details", font=("Algerian", 20, "bold"), fg="white", bg="Black")
         lbl_3.place(x=450, y=100, height=50, width=450)
 
-        lbl_4 = Label(Top,text="Created by THE_DEBUGGERS:\nEAGLE'S EYE is a Facial recognition door security system used for conference halls and labs \n It  was developed by group of codders called 'The_Debuggers' which consists of:\n Antony Prajin, Derrick Raju and Joseph Chalakkal from CHRIST ACADEMY JUNIOR COLLEGE.\nThis project was develeoped for their XII CBSE COMPUTER SCIENCE PROJECT ASSINGMENT.", font=("Arial", 12, "bold"),bg="black",fg="white",pady=50,bd=10, relief=SUNKEN)
+        lbl_4 = Label(Top,text="Created by THE_DEBUGGERS:\nEAGLE'S EYE is a Facial recognition door security system used for conference halls and labs \n It  was developed by Derrick_Rj.\nThis project is dedicated to all the students who love AI and is curious to learn more about it!", font=("Arial", 12, "bold"),bg="black",fg="white",pady=50,bd=10, relief=SUNKEN)
         lbl_4.place(x=180, y=500, width= 1000, height = 200)
     
 #first window         
